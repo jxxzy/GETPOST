@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://asia-southeast2-propane-atrium-401907.cloudfunctions.net/function-1";
+export let URLGeoJson = "https://us-central1-gis-project-401902.cloudfunctions.net/GIS-Project";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
